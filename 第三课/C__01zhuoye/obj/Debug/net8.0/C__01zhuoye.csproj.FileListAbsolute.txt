@@ -1,0 +1,14 @@
+D:\桌面\C#xianmu\第三课\C__01zhuoye\bin\Debug\net8.0\C__01zhuoye.exe
+D:\桌面\C#xianmu\第三课\C__01zhuoye\bin\Debug\net8.0\C__01zhuoye.deps.json
+D:\桌面\C#xianmu\第三课\C__01zhuoye\bin\Debug\net8.0\C__01zhuoye.runtimeconfig.json
+D:\桌面\C#xianmu\第三课\C__01zhuoye\bin\Debug\net8.0\C__01zhuoye.dll
+D:\桌面\C#xianmu\第三课\C__01zhuoye\bin\Debug\net8.0\C__01zhuoye.pdb
+D:\桌面\C#xianmu\第三课\C__01zhuoye\obj\Debug\net8.0\C__01zhuoye.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\C#xianmu\第三课\C__01zhuoye\obj\Debug\net8.0\C__01zhuoye.AssemblyInfoInputs.cache
+D:\桌面\C#xianmu\第三课\C__01zhuoye\obj\Debug\net8.0\C__01zhuoye.AssemblyInfo.cs
+D:\桌面\C#xianmu\第三课\C__01zhuoye\obj\Debug\net8.0\C__01zhuoye.csproj.CoreCompileInputs.cache
+D:\桌面\C#xianmu\第三课\C__01zhuoye\obj\Debug\net8.0\C__01zhuoye.dll
+D:\桌面\C#xianmu\第三课\C__01zhuoye\obj\Debug\net8.0\refint\C__01zhuoye.dll
+D:\桌面\C#xianmu\第三课\C__01zhuoye\obj\Debug\net8.0\C__01zhuoye.pdb
+D:\桌面\C#xianmu\第三课\C__01zhuoye\obj\Debug\net8.0\C__01zhuoye.genruntimeconfig.cache
+D:\桌面\C#xianmu\第三课\C__01zhuoye\obj\Debug\net8.0\ref\C__01zhuoye.dll
