@@ -1,4 +1,5 @@
 ﻿using log4net;
+using System;
 
 namespace Common
 {
@@ -112,5 +113,8 @@ namespace Common
         {
             log.FatalFormat(format, args);
         }
+
+
+
     }
 }
